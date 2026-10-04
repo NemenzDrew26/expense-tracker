@@ -1,0 +1,1 @@
+print("Expense Tracker v0")
